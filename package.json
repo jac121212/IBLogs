@@ -1,0 +1,13 @@
+{
+  "name": "IBLogger ",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+  "fs",
+  "couchbase"
+  },
+  "devDependencies": {
+  }
+}
